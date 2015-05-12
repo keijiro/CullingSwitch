@@ -365,11 +365,11 @@ GameObject:
   serializedVersion: 4
   m_Component:
   - 4: {fileID: 1862721430}
+  - 114: {fileID: 1862721432}
   - 33: {fileID: 1862721429}
   - 135: {fileID: 1862721428}
   - 23: {fileID: 1862721427}
   - 95: {fileID: 1862721431}
-  - 114: {fileID: 1862721432}
   m_Layer: 0
   m_Name: Sphere
   m_TagString: Untagged
@@ -455,7 +455,7 @@ MonoBehaviour:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1862721426}
-  m_Enabled: 0
+  m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4ad497663fc5c41ecb73f097813e5680, type: 3}
   m_Name: 
